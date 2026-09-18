@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://enabled-wave-fwd-primarily.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://marathon-precise-italia-sperm.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-18 14:31:35 UTC
+Created   : 2026-09-18 18:28:28 UTC
 =======================================================
