@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://given-baseball-closing-modes.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://infrared-conditions-producers-commercial.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-19 18:07:09 UTC
+Created   : 2026-09-19 22:29:03 UTC
 =======================================================
