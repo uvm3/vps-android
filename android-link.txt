@@ -1,10 +1,10 @@
 =======================================================
 CLOUD ANDROID - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://dawn-threshold-arrangement-referrals.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
+URL       : https://stood-criteria-updates-drinks.trycloudflare.com/vnc.html?autoconnect=true&resize=scale
 Device    : Pixel 6 (Android 14, x86_64)
 Config    : 4GB RAM / 4 cores / KVM / SwiftShader
 ADB       : docker exec android adb ...
 Host      : trycloudflare
-Created   : 2026-09-20 09:54:52 UTC
+Created   : 2026-09-20 14:16:16 UTC
 =======================================================
